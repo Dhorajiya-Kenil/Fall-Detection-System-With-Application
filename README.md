@@ -583,7 +583,7 @@ Potential future improvements include:
 
 ------------------------------------------------------------------------
 
-## 📄 License
+## License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file included in this repository.
 
@@ -591,7 +591,7 @@ Please read the `LICENSE` file for the complete license terms and conditions.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Project Summary
+## Project Summary
 
 **Fall Detection & Emergency Alert System** is a Flutter application
 focused on helping users quickly notify trusted contacts during possible
