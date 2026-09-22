@@ -585,16 +585,9 @@ Potential future improvements include:
 
 ## 📄 License
 
-Add the project's license here.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file included in this repository.
 
-For example:
-
-``` text
-MIT License
-```
-
-If this project is not yet licensed, choose and add an appropriate
-license before publishing it publicly.
+Please read the `LICENSE` file for the complete license terms and conditions.
 
 ------------------------------------------------------------------------
 
